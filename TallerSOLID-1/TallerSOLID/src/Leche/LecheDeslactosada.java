@@ -12,5 +12,6 @@ public class LecheDeslactosada implements LecheDescremada1 {
         // Lanzar error No se puede usar en pastel
         throw new RuntimeException(this.getClass() + ": No se puede usar en pastel");
     }
+    
         
 }
