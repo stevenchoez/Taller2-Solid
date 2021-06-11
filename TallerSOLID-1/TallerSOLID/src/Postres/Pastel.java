@@ -3,7 +3,7 @@ package Postres;
 import java.util.ArrayList;
 import Adicionales.Aderezo;
 
-public class Pastel{
+public class Pastel extends Postre{
     private String sabor;
     private double precioParcial;
     private ArrayList<Aderezo> aderezos;
