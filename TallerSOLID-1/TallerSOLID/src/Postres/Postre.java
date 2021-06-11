@@ -32,7 +32,7 @@ public static void anadirAderezoHelado(Helado helado,Aderezo aderezo){
     public static void quitarAderezoPastel(Pastel pastel,Aderezo aderezo){
         pastel.getAderezos().remove(aderezo);
         
-    
+    }
     
     
 }

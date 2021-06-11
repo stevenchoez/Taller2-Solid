@@ -1,6 +1,6 @@
 package Leche;
 
-public class LecheDeslactosada extends LecheEntera {
+public class LecheDeslactosada implements LecheDescremada1 {
     
     @Override
     public void usarHelado() {
